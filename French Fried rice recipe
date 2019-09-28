@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Recipe for fried Rice</title>
+</head>
+<body>
+  <!--Ingredients-->
+<ul>
+  <li>250g Rice</li>
+   <li>2 Oginons</li>
+  <li>2 Goussesd'ail</li>
+  <li> 4 carrotes moyennes</li>
+  <li>1 poivron vert</li>
+  <li>4 tomates rondes</li>
+  <li>40g de ginegmbre (a doser selon votre gout)</li>
+  <li>4 oeufs </li>
+  <li>1/2 bouquet de ciboulette ciselee</li>
+  <li>1 cuillere a cafe de curcuma (en option)</li>
+  <li>6 cuillere a soupe de sauce soja</li>
+  <li>4 cuillères à soupe de poisson </li>
+  <li>2 cuillères à soupe sauce d'huile </li>
+  <li>5 cuillères à soupe d'huile vegetale </li>
+  <li>Poiver </li>
+</ul>
+  <!--Steps needed to take to prepare Fried rice-->
+  <ol>
+  <li><strong>Etape 1</strong>
+Cuire le riz dans l'eau bouillante salée par absorption. Bien l'égoutter une fois qu'il est cuit.</li>
+  <li><strong>Etape 2</strong>
+    Emincer ensemble les oignons, l'ail et le gingembre puis en julienne les carottes avec le poivron 
+    (vous pouvez tout passer au mixeur pour aller plus vite mais attention de ne pas faire de trop petits morceaux).
+</li>
+ <li><strong>Etape 3</strong>
+      Couper les tomates en dés
+    </li>
+   <li><strong>Etape 4</strong>
+      Faire chauffer l'huile dans une poêle ou un wok. Faire frire l'ensemble oignons, 
+     ail et gingembre. Ajouter éventuellement le curcuma. Quand ils commencent à dorer, 
+     y ajouter le mélange carottes, poivrons et après 5 minutes les tomates. 
+     Ajouter le riz et laisser coller un peu au fond du wok pour le colorer.
+    </li>
+    <li><strong>Etape 5</strong>
+      Casser les oeufs directement dans la poêle et remuer vivement avec le reste des légumes
+    </li>
+     <li><strong>Etape 6</strong>
+      Ajouter la ciboulette, du poivre et les sauces, mélanger et servir.
+    </li>
+    <li>Vous pouvez l'accompagner d'une salade de concombre. <em>Bon appétit</em></li>
+  </ol>
+</body>
+</html>
